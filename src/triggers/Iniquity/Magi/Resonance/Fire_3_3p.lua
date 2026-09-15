@@ -1,1 +1,0 @@
-raiseEvent("iniquity", "afflict smart", matches[2], "blistered", "burning")
