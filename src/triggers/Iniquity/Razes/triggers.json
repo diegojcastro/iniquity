@@ -13,7 +13,7 @@
     "highlightBG": "#ffff00",
     "patterns": [
       {
-        "pattern": "^\\S+ razes? (.+)'s magical shield",
+        "pattern": "^\\S+ razes? (?<victim>\\S+)'s magical shield",
         "type": "regex"
       },
       {
